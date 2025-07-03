@@ -1,0 +1,12 @@
+@import "tailwindcss";
+
+@theme {
+    --color-purpleBg: #222831;   
+    --color-goldish: #32E0C4;   
+    --color-darkerBg: #393E46;
+    --color-mediumBlue: #393E46;
+    --color-lightPurple: #393E46;
+}
+:root {
+    font-family: Oxanium;
+}
